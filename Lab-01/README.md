@@ -1,6 +1,6 @@
 # OOP Pre-Semester Practice 🚀
 
-#Lab-01
+<h3>Lab-01</h3>
 
 C++ Object Oriented Programming lab exercises.
 
